@@ -20,7 +20,7 @@ $ python --version
 ## Usage
 
 # 1. Clone the repository (if available):
-$ git clone https://github.com/YourRepo/LyricsScript.git
+$ git clone https://github.com/YourRepo/LyricsScript.git](https://github.com/Ferudiizzz/Python-Lyrics-Tiktok-Trend-Code.git
 
 # 2. Navigate to the project directory:
 $ cd LyricsScript
